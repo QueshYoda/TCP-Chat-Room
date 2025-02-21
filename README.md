@@ -45,7 +45,7 @@ A simple chat room application using TCP sockets in Python. This project include
 ## License
 This project is open-source and available under the MIT License.
 
----
+
 ## Author
 [Baha Demirtaş](https://github.com/queshyoda)
 
